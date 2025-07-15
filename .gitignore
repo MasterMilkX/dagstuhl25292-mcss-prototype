@@ -2,3 +2,7 @@ images/
 twitch.yaml
 mcss/
 chromedriver
+venv/
+node_modules/
+.env
+.DS_Store
