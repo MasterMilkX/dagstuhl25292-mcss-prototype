@@ -1,4 +1,4 @@
-# dagstuhl25292-mcss-prototype
+# Zora's River -- Massive Content Social Structure Prototype
 Massively Content Social Structures Prototype
 
 Game recommendation system using vector embeddings and nearest neighbor algorithms.
